@@ -1,0 +1,1 @@
+Neural netork hello world app from tutorial: https://www.tensorflow.org/tutorials/keras/basic_classification
