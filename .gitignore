@@ -2,3 +2,16 @@
 **/.idea
 **/requirements.txt
 
+*.iml
+/AndroidAppPlaceRecogniser/.gradle
+/AndroidAppPlaceRecogniser/local.properties
+/AndroidAppPlaceRecogniser/.idea/caches
+/AndroidAppPlaceRecogniser/.idea/libraries
+/AndroidAppPlaceRecogniser/.idea/modules.xml
+/AndroidAppPlaceRecogniser/.idea/workspace.xml
+/AndroidAppPlaceRecogniser/.idea/navEditor.xml
+/AndroidAppPlaceRecogniser/.idea/assetWizardSettings.xml
+.DS_Store
+/AndroidAppPlaceRecogniser/build
+/AndroidAppPlaceRecogniser/captures
+.externalNativeBuild
